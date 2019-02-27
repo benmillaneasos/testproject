@@ -1,0 +1,6 @@
+C:\Users\benjamin.millane\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\benjamin.millane\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\benjamin.millane\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\benjamin.millane\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\benjamin.millane\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\benjamin.millane\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
